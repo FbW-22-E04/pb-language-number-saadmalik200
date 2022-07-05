@@ -3,7 +3,7 @@
 let introSentence = "hello, my name is Fran and I am";
 let age = 25;
 
-console.log(introSentence + age);
+console.log(introSentence + " " + age);
 // + operator is converting number to string
 
 // ## 2. Converting
