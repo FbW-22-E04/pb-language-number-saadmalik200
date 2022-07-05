@@ -9,9 +9,9 @@ console.log(introSentence + " " + age);
 // ## 2. Converting
 
 const integer = "1005";
-console.log(typeof integer);
-const integer1 = parseInt(integer);
-console.log(typeof integer1, integer1);
+// console.log(integer);
+// const integer = parseInt(integer);
+console.log(parseInt(integer));
 
 const float = "10.05";
-console.log(parseInt(float));
+console.log(parseFloat(float));
